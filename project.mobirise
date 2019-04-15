@@ -300,19 +300,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/-dsc2781-2000x1277.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc2781-2000x1277-800x511.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Tapez la légende ici",
-                "active": false
-              },
-              {
-                "tags": "TOURS",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/-dsc3857bis-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc3857bis-2000x1333-800x533.jpg",
                 "alt": "",
@@ -696,20 +683,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tapez la légende ici",
-                "active": false
-              },
-              {
-                "tags": "TOURS",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/-dsc7046-copie-2000x3000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc7046-copie-2000x3000-800x1200.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Tapez la légende ici",
-                "active": false
+                "active": true
               },
               {
                 "tags": "TOURS",
@@ -735,7 +709,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tapez la légende ici",
-                "active": true
+                "active": false
               }
             ]
           }
