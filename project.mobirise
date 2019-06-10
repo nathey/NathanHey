@@ -748,7 +748,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tapez la légende ici",
-                "active": true
+                "active": false
               },
               {
                 "tags": "TOURS",
@@ -762,6 +762,71 @@
                 "customStyle1": "display-7",
                 "caption": "Tapez la légende ici",
                 "active": false
+              },
+              {
+                "tags": "TOURS",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/-dsc3584-2000x2839.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc3584-2000x2839-800x1136.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Tapez la légende ici",
+                "active": false
+              },
+              {
+                "tags": "TOURS",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/-dsc3772-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc3772-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Tapez la légende ici",
+                "active": false
+              },
+              {
+                "tags": "TOURS",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/-dsc3793-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc3793-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Tapez la légende ici",
+                "active": false
+              },
+              {
+                "tags": "TOURS",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/-dsc3850-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc3850-2000x2000-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Tapez la légende ici",
+                "active": false
+              },
+              {
+                "tags": "TOURS",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/-dsc3939-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc3939-2000x3000-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Tapez la légende ici",
+                "active": true
               }
             ]
           }
