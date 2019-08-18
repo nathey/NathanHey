@@ -1089,7 +1089,7 @@ pre {
     display: none;
   }
 }
-@media (max-width: 991px) {
+@media (max-width: 1023px) {
   .navbar-toggleable-md .navbar-nav .dropdown-menu {
     position: static;
     float: none;
@@ -1099,7 +1099,7 @@ pre {
     padding-left: 0;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 1024px) {
   .navbar-toggleable-md {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -1329,7 +1329,7 @@ body {
   box-shadow: none !important;
 }
 .cid-r4LI9EQarV {
-  background-image: url("../../../assets/images/-dsc0471-2000x1255.jpg");
+  background-image: url("../../../assets/images/home-2000x1103.jpg");
 }
 .cid-r4LI9EQarV .mbr-figure {
   margin: 0 auto;
