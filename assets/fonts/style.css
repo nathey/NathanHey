@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Furious Styles - Demo';
+   font-display: swap;
+   src: url('Furious Styles - Demo/font.ttf');
+}
+@font-face {
+   font-family: 'DIN BlackAlternate';
+   font-display: swap;
+   src: url('DIN BlackAlternate/font.ttf');
+}
+@font-face {
+   font-family: 'DIN';
+   font-display: swap;
+   src: url('DIN/font.ttf');
+}
