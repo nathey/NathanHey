@@ -95,7 +95,7 @@
     "uniqCompNum": 9,
     "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "mbrsiteDomain": "imuq0zpxzh"
   },
   "pages": {
